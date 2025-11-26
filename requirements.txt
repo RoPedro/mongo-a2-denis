@@ -1,0 +1,10 @@
+pymongo
+IPython
+pandas
+matplotlib
+seaborn
+io
+requests
+time
+re
+
